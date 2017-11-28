@@ -6,7 +6,7 @@ Getting Started
 
 To initialize your local repository using the CyanogenMod trees, use a command like this:
 
-    repo init -u git://https://github.com/LineageOS-MT6589/android-3.4.67.git -b cm-12.1
+    repo init -u git://github.com/LineageOS-MT6589/android-3.4.67.git -b cm-12.1
 
 Then to sync up:
 
